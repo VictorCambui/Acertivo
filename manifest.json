@@ -1,5 +1,6 @@
 {
     "name": "Acertivo",
+    "short_name": "Acertivo",
     "theme_color": "#333333",
     "background_color": "#333333",
     "display": "standalone",
