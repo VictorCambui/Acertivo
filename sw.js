@@ -3,7 +3,7 @@ const CACHE_VERSION = 'acertivo-1.0.0';
 const RESOURCES = [
     // pages
     '/Acertivo/',
-    '/Acertivo/cadastro'
+    '/Acertivo/cadastro',
 
     // scripts
     '/Acertivo/main.js',
