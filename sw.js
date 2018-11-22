@@ -2,15 +2,15 @@ const CACHE_VERSION = 'acertivo-1.0.0';
 
 const RESOURCES = [
     // pages
-    '/acertivo/',
-    '/acertivo/cadastro'
+    '/Acertivo/',
+    '/Acertivo/cadastro'
 
     // scripts
-    '/acertivo/main.js',
+    '/Acertivo/main.js',
 
     // images
-    '/acertivo/img/sprite.svg',
-    '/acertivo/img/logo.png',
+    '/Acertivo/img/sprite.svg',
+    '/Acertivo/img/logo.png',
 ];
 
 self.addEventListener("install", function(event) {
